@@ -1,3 +1,4 @@
 “This is a cool new file”
 Und hier sind dann noch ein paar änderungen.
 Dummy
+something else
